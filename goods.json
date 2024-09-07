@@ -1,6 +1,16 @@
 {
   "goodsList": [
     {
+      "title": "这是一个测试项目",
+      "primaryImage": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1725294490583-abec8842-aebd-406e-94a4-7a0c9fecc069.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["zero", "investigate", "redEnvelope", "crossBorder"],
+      "desc": "海外问卷调查赚美金项目：每日20+美金，多号多撸，多劳多得，操作简单，用户每完成一个问卷会得到0.3～8美金左右，通过本地代理开代理可实现账号多开，一天撸个20～30美金完全不在话下",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1353422468-cadefb?p=zijef",
+      "time": ""
+    },
+    {
       "title": "海外问卷调查赚美金项目：每日20+美金，多号多撸，多劳多得",
       "primaryImage": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1725294490583-abec8842-aebd-406e-94a4-7a0c9fecc069.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0",
       "originPrice": "",
