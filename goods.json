@@ -1,0 +1,223 @@
+[
+  {
+    title: '海外问卷调查赚美金项目：每日20+美金，多号多撸，多劳多得',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725294490583-abec8842-aebd-406e-94a4-7a0c9fecc069.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['zero', 'investigate', 'redEnvelope', 'crossBorder'],
+    desc: '海外问卷调查赚美金项目：每日20+美金，多号多撸，多劳多得，操作简单，用户每完成一个问卷会得到0.3～8美金左右，通过本地代理开代理可实现账号多开，一天撸个20～30美金完全不在话下',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353422468-cadefb?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '微信全自动阅读多平台脚本，每日10+，多号多撸，可推广',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725293201602-149b5828-7b25-4806-838c-241cbf387253.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weChat', 'zero', 'redEnvelope'],
+    desc: '微信全自动阅读多平台脚本，每日10+，多号多撸，可推广，无需下载 app，微信扫描即可，脚本全自动阅读，全自动切换微信小号，全自动切换平台，支持参数设置，默认参数也可直接运行，全自动脚本自动阅读，点击下方按钮免费获取脚本',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353436184-f3d8f5?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '百度推荐官项目，长期稳定，每日10+，多号多撸',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725291340987-425dc8dc-2c3c-4945-a232-2fe88dc652f4.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['baidu', 'zero'],
+    desc: '百度推荐官项目，长期稳定，每日10+，多号多撸，不用养鸡，不用看广告，脚本自动挂机，大厂项目可长期撸，不封号，推广单号每天10+ 米，多号多撸，推广无上限，一元起提，秒到账，点击下方按钮可免费获取脚本',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353436589-cfc19f?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '闲鱼卡券核销项目，无脑赚钱，每日500+',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725187513180-13e7baaf-be68-407c-a76c-77bb5c96ad16.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['xianyu', 'weMedia', 'zero'],
+    desc: '闲鱼卡券核销项目，无脑赚钱，每日500+，操作简单，闲鱼官方销卡渠道，稳定放心，点击下方按钮获取地址',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1349953336-b743a2?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '网易有道简单搬砖项目，单个视频可撸100+',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725186150080-a931925f-d697-4582-9c20-da7bcacd950b.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['toutiao', 'weMedia', 'zero'],
+    desc: '今天给大家分享一个简单的小项目，有道WOW社区项目。收益简直是白捡，不要白不要，有时间的小伙伴，可以去试试。因为是新平台，需要更多的创作内容，所以目前有道WOW社区规则比较宽松，通过简单的搬砖就可以获取收益',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353436889-6bbcc2?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '今日头条极速版赚钱项目，单号25+，多号多撸',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725271487475-69367763-e768-4ed2-89f3-c07497300a09.png?x-oss-process=image%2Fformat%2Cwebp',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['toutiao', 'weMedia', 'zero', 'redEnvelope'],
+    desc: '今日头条极速版赚钱项目，单号25+，多号多撸，今日头条极速版稳定安全挂机项目操作简单粗暴，安卓手机即可挂机，电脑云机（双子星云机推荐)多开干一个号挂机一天15+，多号多撸。教程内含教程,接码平台，真实挂机和收益图，永久通用卡密，养号方法，工作室最吃香一机一天正常25块，一个月利润300——800十个号一天268块，一个月利润3000——8000',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437225-2a4880?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: 'Ai爆文写作技巧，小白轻松上手今日头条',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725125941098-0d89f197-170c-410b-9314-b35311e67d61.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['toutiao', 'weMedia'],
+    desc: '今天给大家分享，今日头条原创文章是目前各平台补贴类项目最高的，每天要做的就是抽出10分钟，找—条相关文章，然后用AlI工具生成原创文章，最后发布第二天就可以看到效果。 单账号—天搞几百不是问题，有精力的话可以搞多个账号，今日头条受众人群:中年人和老年人居多。 项目优势:比起其它的平台，今日头条每篇文章只需要超过300字就可以了，其它就只需要配上图片，因为老百姓都喜欢看那些简单的直观的东西。一但选择了赛道就去深耕他，点击下方按钮获取Ai工具',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437306-d674f2?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '全新图文搬运，有道社区搬砖项目，一天100+',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725186788616-7be5af0e-ed0d-4ece-b7ca-29f4a417d33d.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['toutiao', 'weMedia'],
+    desc: '有道社区项目平台为了吸引更多优质的创作者，特意提高了文章的佣金比例，目前千次阅读有6-12元，平台可以获得高质量的内容，创作者可以得到丰富的奖励。现在平台上的创作者还不多，竞争压力相对较小，是一个入局的好机会。目前对于作品质量要求并不是很高，原创度要求也不高，抓紧入局，机会不等人，项目实操资料方下面链接里面了',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437123-0049a5?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+
+  {
+    title: '抖音同城相亲号，1000+付费社群项目实操',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725125254946-8efd3657-701e-42d9-8cbe-440da07512a4.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['douyin', 'weMedia'],
+    desc: '抖音同城相亲号，1000+付费社群项目实操，相亲自古以来就有，这是一个永远会存在的一个市场，别看他小众，但是现在也有很多人在做，但是利润暴力，容易复制，好变现，扩展人脉，怎么看都是一个很不错的路子，抖音全自动引流工具放下面链接里了',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437366-40a58e?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '2024年必做视频号分成计划，实操教程',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725124278087-38badb00-93bd-40cc-960f-462b9ba36c9c.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weChat', 'weMedia'],
+    desc: '2024年必做视频号分成计划，实操教程，视频创作者们不需要出镜也可以操作。就和抖音、西瓜视频一样，在上面发视频平台给你钱，开通『视频号分成计划』后，我们就不断地发布原创视频。视频的评论区就有机会自动向用户展示最合适的广告，用户点击广告后，我们就能获得收益。不用你自己额外找广告、挂广告，非常方便，可以说只要通过了申请就能不断拿到分成',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437450-99f90f?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '视频号种草号赚钱项目解析：一天稳赚1000+的实战操作！',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725123676891-d0d8ea1f-6ef2-4e0e-9726-bc72b2f525fb.png?x-oss-process=image%2Fformat%2Cwebp',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weChat', 'weMedia'],
+    desc: '视频号种草号赚钱项目解析：一天稳赚1000+的实战操作！，有流量的地方就有淘客，有淘客的地方就有流量生意和玩法。种草号这个玩法在某音、某手等短视频平台是已经逐渐式微了，但是在视频号还是有非常大的可行性和利润空间。于是就有大佬照搬了原本种草号的套路到视频号中，通过短视频内容种草再引导卖货，按照账号作品的数据来看，实际收入相信也是挺可观的，单月变现上万不是难事',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437471-d154dd?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '月入5万+抖音暴力书单号，玩法简单暴利',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725123322910-e44b8bfd-d861-47fd-a6ac-b8f560184938.png?x-oss-process=image%2Fformat%2Cwebp',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weMedia', 'douyin'],
+    desc: '抖音书单号，就跟抖音带货一样，书单是专门带货书籍类的，那种带货的话就是万物皆可带了。抖音书单最早在18年底就开始了，那个时候的书单号非常简单暴利，一个月卖一万本书的大有号在。我只抓了一个尾巴，随便做一做当时我的号都是几万起的播放量。对于现在的书单号玩法变了，因为抖音的玩法机制一直在改变，靠抖音变现的项目也会一直在变，做项目你就别想靠一个玩法玩一辈子的。很多人想尝试去做短视频，耐于面子问题，不想出境又不想直播，没什么颜值，又没什么才艺，又想通过短视频来赚钱？有一个项目，能满足你以上要求，那就是抖音书单号，书单号，顾名思义，简单来说就是在抖音上去输出内容，然后通过内容卖书，一般佣金达到30%-50%左右个别图书佣金能达到80%。',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437564-e89962?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '外面收费1980的抖音无人直播技术，让人躺赚',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725121542572-673176bf-2672-40d9-9eee-8cbf811e5e29.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weMedia', 'douyin'],
+    desc: '近期，无人直播市场异常火爆，因此我们决定与短视频网的朋友们分享一些无人直播的玩法和技巧，助力大家轻松赚钱！可以用用美女视频直播赚音浪，也可以用技能性的视频，也可以做一些迎流工具，鸡汤等，详细实操资料，放下面链接里面了',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437681-6a7a90?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: 'VIVO视频计划，入驻即可领200元现金！吃初期红利',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/jpeg/34366517/1725097968775-2079a24b-d634-4910-80d4-3dd5ce4ab141.jpeg?x-oss-process=image%2Fformat%2Cwebp',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weMedia', 'weChat'],
+    desc: 'VIVO视频计划，入驻即可领200元现金！吃初期红利，现在平台审核不严格，内容也不需要太专业，原创度也不太高，大家抓紧入局，分第一杯羹，平台肯定会越来越严格的，到时候就不好说了，抓紧领取下方资料',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437765-f42906?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '德物激励计划，商单接到手软，单日收益200+',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725101708845-b2a90c23-aba4-4561-a111-f48babc154a4.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weMedia'],
+    desc: '德物激励计划，商单接到手软，单日收益200+，得物平台上的赚钱方法真的太棒了！不仅仅是鞋子，现在涵盖了各种潮流好货，从服饰到配饰再到美妆，应有尽有。 而且，得物平台上的流量非常惊人，是购物爱好者们的聚集地，商机非常多。现在我要分享给你一个独家的项目，在得物上发布种草笔记，只需要100个粉丝就能开始接商业订单，就算是新手也能轻松上手。相比起小红书，得物的操作要简单得多。小红书的接订单频率有限制，门槛也比较高。但对于得物来说，操作非常简单，直截了当',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437840-eba5f0?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '支付宝创作者计划，单号日入100+',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725102245879-495f6568-f8bd-4d2b-a5b7-cce4abe211f9.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weMedia'],
+    desc: '支付宝也开始涉足短视频平台，并推出了创作者分成计划。这并非新鲜事，我们之前也提到过这个领域。尽管支付宝用户众多，但观看支付宝短视频的人却寥寥无几，就像我一样。 并不是说没有观看过，只是看的次数不多。最近大家都在疯狂关注微信视频号，毕竟微信用户数量庞大，入门门槛低。因此，推荐、操作等都涌向了那个平台。确实，视频号的门槛较低，使用起来也非常方便。但大多数人的播放量并不高，要想增加收益，就需要在评论区吸引更多流量，否则收益可能会很低。这一点大家也都明白，广告分成需要依托评论区的人群。今天我们来说说支付宝，因为圈内人士爆料称这个平台的收益要高于其他平台',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437843-775e05?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '轻抖任务拆解，每日轻松赚100+',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725102440539-d27b94b5-b3a0-4af8-b33b-c4752ba99844.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weMedia'],
+    desc: '轻抖任务拆解，每日轻松赚100+，用轻抖无论是自己用还是推广都是非常的好用，也更容易推广，推广的人数多了，一天随随便便赚个几百元还是很香',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437852-6ad6f7?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '搬运视频到拼多多带货月入过万、0门槛、不用缴纳任何费用，保姆级教程',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725102584574-7999130c-849e-4fbd-83ed-d16352a0e660.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weMedia', 'duoduo'],
+    desc: '多多视频的视频带货原理和其他平台类似，只需注册一个多多视频号，发布带货视频并添加商品链接，但是它是无需缴纳保证金的，很简单，在拼多多APP下方的第二个选项即是进入多多视频的入口。在用户观看视频的过程中，系统会根据用户的浏览记录推送与之前查看过的产品相似的带货视频，从而促进转化率的提高。视频左下角会弹出商品卡片，整个购买转化流程非常顺畅。当用户购买你推广的商品后，你就能获得相应的佣金啦。实操教程放下方链接了',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353438719-89833e?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '手机聊天变现项目，自动聊天日入500+，操作简单，可多号操作放大收益',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725115166095-1d3bdf53-2600-4b1f-b3bf-5539642f4bb0.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weMedia', 'duoduo'],
+    desc: '手机聊天变现项目，自动聊天日入500+，操作简单，可多号操作放大收益，一天聊聊天就可以赚钱，而且是按照每一句话收费的，你敢信，每句话大概在0.1～0.3左右，本人实操聊一个小时就能赚40～50米，非常的nice，快领取资料行动起来吧',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437891-dc6b46?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+  {
+    title: '视频号分成计划：用AI做历史知识科普，小白轻松上手，单月5000+',
+    primaryImage:
+      'https://cdn.nlark.com/yuque/0/2024/png/34366517/1725115014648-4832a0f4-8d71-48eb-97ee-ee39a17b6a2d.png?x-oss-process=image%2Fformat%2Cwebp',
+    originPrice: getRandomNum(priceRange),
+    soldNum: getRandomNum(soldRange),
+    categoryCodes: ['weMedia', 'duoduo', 'weChat'],
+    desc: '视频号分成计划：用AI做历史知识科普，小白轻松上手，单月5000+',
+    fileHerf: 'https://url96.ctfile.com/f/40050796-1353437870-2e2114?p=zijef',
+    time: generateFormattedRandomDate(timeRange),
+  },
+]
