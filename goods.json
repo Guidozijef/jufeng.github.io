@@ -219,5 +219,5 @@
     desc: '视频号分成计划：用AI做历史知识科普，小白轻松上手，单月5000+',
     fileHerf: 'https://url96.ctfile.com/f/40050796-1353437870-2e2114?p=zijef',
     time: generateFormattedRandomDate(timeRange),
-  },
+  }
 ]}
