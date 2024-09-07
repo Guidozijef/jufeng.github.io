@@ -1,4 +1,4 @@
-[
+{ goodList: [
   {
     title: '海外问卷调查赚美金项目：每日20+美金，多号多撸，多劳多得',
     primaryImage:
@@ -220,4 +220,4 @@
     fileHerf: 'https://url96.ctfile.com/f/40050796-1353437870-2e2114?p=zijef',
     time: generateFormattedRandomDate(timeRange),
   },
-]
+]}
