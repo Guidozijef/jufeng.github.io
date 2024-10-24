@@ -24,11 +24,15 @@
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1724835231578-c8eac649-bf6d-46a4-b7ae-4d5c51f46669.png?x-oss-process=image%2Fformat%2Cwebp",
     "code": "xianyu"
   },
-
   {
     "name": "多多电商",
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241922022-56b4003b-2a73-4588-81bf-08c6a61f3ae9.png?x-oss-process=image%2Fformat%2Cwebp",
     "code": "duoduo"
+  },
+  {
+    "name": "淘宝电商",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726242266527-de3c6a2b-143a-43f8-ac7c-edac6845350a.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "weChatMarketing"
   },
   {
     "name": "跨境电商",
@@ -36,29 +40,49 @@
     "code": "crossBorder"
   },
   {
+    "name": "社交电商",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241108504-68b0c4bb-39e9-4afa-a12c-6280b8cdef86.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "socialize"
+  },
+  {
     "name": "问卷调查",
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241184164-1f039d3b-79f0-4965-b92d-69a0b2c56c84.png?x-oss-process=image%2Fformat%2Cwebp",
     "code": "investigate"
   },
   {
-    "name": "0撸",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241674418-ffb3ac2a-e1e2-4824-80a9-7d88f46dcd6a.png?x-oss-process=image%2Fformat%2Cwebp",
+    "name": "首码项目",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696392209-9c4a51b3-3cac-49d7-9d29-ad56f3301b72.png?x-oss-process=image%2Fformat%2Cwebp",
     "code": "zero"
   },
   {
-    "name": "自动化",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241303102-01ffeba0-7238-4b80-8deb-5666e9ac0175.png?x-oss-process=image%2Fformat%2Cwebp",
+    "name": "脚本挂机",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696392198-df228e14-296d-43b4-ae25-bcd69f659fe6.png?x-oss-process=image%2Fformat%2Cwebp",
     "code": "redEnvelope"
   },
   {
-    "name": "百度",
+    "name": "百度贴吧",
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241348822-f5fbc181-18b6-4c02-b3c1-024d9b627581.png?x-oss-process=image%2Fformat%2Cwebp",
     "code": "baidu"
   },
   {
     "name": "自媒体",
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241438458-f11ca5b1-b9d4-4ceb-8d82-e850088aec31.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "weMedia"
+    "code": "virtualResources"
+  },
+  {
+    "name": "虚拟资源",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696507992-a55a4ff5-4bce-4dce-b5c7-2c977643b2e0.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "aiInstruction"
+  },
+  {
+    "name": "直播带货",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696579864-24ff6eed-d67b-46f9-93a1-f2a3ba13955a.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "liveBroadcast"
+  },
+  {
+    "name": "广告营销",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696634262-4035e655-dd2d-4d0a-8b6c-3890bb9a8d2b.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "advertisingMarketing"
   },
   {
     "name": "社群运营",
@@ -71,8 +95,49 @@
     "code": "flow"
   },
   {
+    "name": "爆粉迎流",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696775918-2676fa93-a763-4e99-a87f-5e95adadae44.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "incidentFlow"
+  },
+  {
+    "name": "微信营销",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696907793-34fc9991-f897-468d-a9cc-4de2678ca448.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "weChatMarketing"
+  },
+  {
+    "name": "投资理财",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696939834-db4ae32f-31d2-4110-b968-8297a5239c81.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "weChatMarketing"
+  },
+  {
+    "name": "网站源码",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696986708-4b076229-c37b-4e25-9edf-d718f1ccb710.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "weChatMarketing"
+  },
+
+  {
+    "name": "实用工具",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729697033915-6a1a8008-db03-498f-8304-aea814286f67.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "utilities"
+  },
+  {
+    "name": "推广工具",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729697072286-61be714b-21a9-4720-9fb2-c6526a6cb536.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "promotionTools"
+  },
+  {
     "name": "Ai工具",
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241494374-18025932-677b-40ff-90ce-87b180913de5.png?x-oss-process=image%2Fformat%2Cwebp",
     "code": "aiTool"
+  },
+  {
+    "name": "黑科技",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729697132896-b7319250-0904-4656-a0d5-3f45d8336b69.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "blackTechnology"
+  },
+  {
+    "name": "其他",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729697179691-6e1d03ee-f766-4c8f-a440-c57a89167ae6.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "weChatMarketing"
   }
 ]
