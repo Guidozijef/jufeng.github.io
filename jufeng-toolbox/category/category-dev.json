@@ -1,0 +1,48 @@
+[
+  {
+    "name": "语文",
+    "images": "https://cdn.nlark.com/yuque/0/2024/jpeg/34366517/1729571935317-e0434a23-6114-4bf1-a2cb-3d6409472e0d.jpeg?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "douyin"
+  },
+  {
+    "name": "数学",
+    "images": "https://cdn.nlark.com/yuque/0/2024/jpeg/34366517/1729571935317-e0434a23-6114-4bf1-a2cb-3d6409472e0d.jpeg?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "weChat"
+  },
+  {
+    "name": "英语",
+    "images": "https://cdn.nlark.com/yuque/0/2024/jpeg/34366517/1729571935317-e0434a23-6114-4bf1-a2cb-3d6409472e0d.jpeg?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "toutiao"
+  },
+  {
+    "name": "物理",
+    "images": "https://cdn.nlark.com/yuque/0/2024/jpeg/34366517/1729571935317-e0434a23-6114-4bf1-a2cb-3d6409472e0d.jpeg?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "redBook"
+  },
+  {
+    "name": "化学",
+    "images": "https://cdn.nlark.com/yuque/0/2024/jpeg/34366517/1729571935317-e0434a23-6114-4bf1-a2cb-3d6409472e0d.jpeg?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "xianyu"
+  },
+
+  {
+    "name": "生物",
+    "images": "https://cdn.nlark.com/yuque/0/2024/jpeg/34366517/1729571935317-e0434a23-6114-4bf1-a2cb-3d6409472e0d.jpeg?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "duoduo"
+  },
+  {
+    "name": "地理",
+    "images": "https://cdn.nlark.com/yuque/0/2024/jpeg/34366517/1729571935317-e0434a23-6114-4bf1-a2cb-3d6409472e0d.jpeg?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "crossBorder"
+  },
+  {
+    "name": "政治",
+    "images": "https://cdn.nlark.com/yuque/0/2024/jpeg/34366517/1729571935317-e0434a23-6114-4bf1-a2cb-3d6409472e0d.jpeg?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "investigate"
+  },
+  {
+    "name": "历史",
+    "images": "https://cdn.nlark.com/yuque/0/2024/jpeg/34366517/1729571935317-e0434a23-6114-4bf1-a2cb-3d6409472e0d.jpeg?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "zero"
+  }
+]
