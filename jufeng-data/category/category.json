@@ -67,12 +67,12 @@
   {
     "name": "自媒体",
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241438458-f11ca5b1-b9d4-4ceb-8d82-e850088aec31.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "virtualResources"
+    "code": "weMedia"
   },
   {
     "name": "虚拟资源",
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696507992-a55a4ff5-4bce-4dce-b5c7-2c977643b2e0.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "aiInstruction"
+    "code": "virtualResources"
   },
   {
     "name": "直播带货",
@@ -107,14 +107,13 @@
   {
     "name": "投资理财",
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696939834-db4ae32f-31d2-4110-b968-8297a5239c81.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "weChatMarketing"
+    "code": "investment"
   },
   {
     "name": "网站源码",
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696986708-4b076229-c37b-4e25-9edf-d718f1ccb710.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "weChatMarketing"
+    "code": "sourceCode"
   },
-
   {
     "name": "实用工具",
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729697033915-6a1a8008-db03-498f-8304-aea814286f67.png?x-oss-process=image%2Fformat%2Cwebp",
