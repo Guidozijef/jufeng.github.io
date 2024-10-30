@@ -1,142 +1,87 @@
 [
   {
-    "name": "抖音",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1724835230677-4a96847c-620e-44a4-9fdc-a0a5dd0fac14.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "douyin"
+    "name": "视频音频",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020925762-483fde53-cfad-465e-a66f-f56713d1ef75.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "videoAudio"
   },
   {
-    "name": "视频号",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1724835231266-4fb5d82a-5686-4f8e-aede-fec5cc9e4b57.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "weChat"
+    "name": "办公文档",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020925355-9a09805f-7578-4062-9415-66b79d6b1531.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "OfficeDocuments"
   },
   {
-    "name": "今日头条",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1724835230947-d6d9526b-1339-441a-90c6-c8cb66bf68fd.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "toutiao"
+    "name": "游戏娱乐",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020926446-74449eaa-009f-427f-872f-f20abe560f24.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "entertainment"
   },
   {
-    "name": "小红书",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1724835231596-8125cdee-8235-4f39-823d-488a8da976e8.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "redBook"
+    "name": "图形图像",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020925944-abcb82b7-37c0-41f9-abf7-5afa6c0a7f31.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "image"
   },
   {
-    "name": "闲鱼电商",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1724835231578-c8eac649-bf6d-46a4-b7ae-4d5c51f46669.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "xianyu"
+    "name": "日常工具",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020926596-1c68b986-52f0-4dee-8706-fe6aba08a9e9.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "dailyTools"
   },
   {
-    "name": "多多电商",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241922022-56b4003b-2a73-4588-81bf-08c6a61f3ae9.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "duoduo"
+    "name": "系统工具",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020926105-0ddf0f6e-5f83-48ea-b771-19f6a84e922f.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "systemTools"
   },
   {
-    "name": "淘宝电商",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726242266527-de3c6a2b-143a-43f8-ac7c-edac6845350a.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "weChatMarketing"
+    "name": "素材艺术",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020926321-d4dea072-ffa8-4d7f-87a7-87d71f5f9699.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "materialArt"
   },
   {
-    "name": "跨境电商",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241108504-68b0c4bb-39e9-4afa-a12c-6280b8cdef86.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "crossBorder"
+    "name": "杀毒安全",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020925517-2c2540b1-367f-4597-a253-472487b564a2.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "antivirusSecurity"
   },
   {
-    "name": "社交电商",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241108504-68b0c4bb-39e9-4afa-a12c-6280b8cdef86.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "socialize"
+    "name": "聊天通讯",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020926914-b4ccadb1-733c-44ae-8d86-3d11c56f4f12.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "chatCommunication"
   },
   {
-    "name": "问卷调查",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241184164-1f039d3b-79f0-4965-b92d-69a0b2c56c84.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "investigate"
+    "name": "设计美化",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020925525-82696f6a-4503-4627-9ec4-219202b2ed28.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "designBeautification"
   },
   {
-    "name": "首码项目",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696392209-9c4a51b3-3cac-49d7-9d29-ad56f3301b72.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "zero"
+    "name": "资料软件",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020926010-34ec60fc-4c9c-49b8-9283-70fc39aa1f09.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "dataSoftware"
   },
   {
-    "name": "脚本挂机",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696392198-df228e14-296d-43b4-ae25-bcd69f659fe6.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "redEnvelope"
+    "name": "网络软件",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020925373-0502e857-2baa-4b61-938b-6a04fcfa7b14.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "networkSoftware"
   },
   {
-    "name": "百度贴吧",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241348822-f5fbc181-18b6-4c02-b3c1-024d9b627581.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "baidu"
+    "name": "生活教育",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020925532-26844998-e516-4013-a96e-afed9fb5e639.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "lifeEducation"
   },
   {
-    "name": "自媒体",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241438458-f11ca5b1-b9d4-4ceb-8d82-e850088aec31.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "weMedia"
-  },
-  {
-    "name": "虚拟资源",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696507992-a55a4ff5-4bce-4dce-b5c7-2c977643b2e0.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "virtualResources"
-  },
-  {
-    "name": "直播带货",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696579864-24ff6eed-d67b-46f9-93a1-f2a3ba13955a.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "liveBroadcast"
-  },
-  {
-    "name": "广告营销",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696634262-4035e655-dd2d-4d0a-8b6c-3890bb9a8d2b.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "advertisingMarketing"
-  },
-  {
-    "name": "社群运营",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726242153266-2059e47b-67c2-479f-84a4-e2bd5dbd025c.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "operate"
-  },
-  {
-    "name": "流量变现",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726242266527-de3c6a2b-143a-43f8-ac7c-edac6845350a.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "flow"
-  },
-  {
-    "name": "爆粉迎流",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696775918-2676fa93-a763-4e99-a87f-5e95adadae44.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "incidentFlow"
-  },
-  {
-    "name": "微信营销",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696907793-34fc9991-f897-468d-a9cc-4de2678ca448.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "weChatMarketing"
-  },
-  {
-    "name": "投资理财",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696939834-db4ae32f-31d2-4110-b968-8297a5239c81.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "investment"
-  },
-  {
-    "name": "网站源码",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729696986708-4b076229-c37b-4e25-9edf-d718f1ccb710.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "sourceCode"
-  },
-  {
-    "name": "实用工具",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729697033915-6a1a8008-db03-498f-8304-aea814286f67.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "utilities"
-  },
-  {
-    "name": "推广工具",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729697072286-61be714b-21a9-4720-9fb2-c6526a6cb536.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "promotionTools"
+    "name": "编程开发",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020925878-670235b0-d216-4be7-8ccf-417c4e93d045.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "program"
   },
   {
     "name": "Ai工具",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1726241494374-18025932-677b-40ff-90ce-87b180913de5.png?x-oss-process=image%2Fformat%2Cwebp",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020926494-910a8825-7265-4ee5-9d6f-b790e0347baf.png?x-oss-process=image%2Fformat%2Cwebp",
     "code": "aiTool"
   },
   {
-    "name": "黑科技",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729697132896-b7319250-0904-4656-a0d5-3f45d8336b69.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "blackTechnology"
+    "name": "Ai绘画",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727021407897-5ca62eff-0d8b-401d-8cb4-2faeee22be7b.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "aiPainting"
   },
   {
-    "name": "其他",
-    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729697179691-6e1d03ee-f766-4c8f-a440-c57a89167ae6.png?x-oss-process=image%2Fformat%2Cwebp",
-    "code": "weChatMarketing"
+    "name": "Ai视频",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020927101-aae6784b-2945-40df-b61e-4f99e26ff9da.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "aiVideo"
   }
 ]
