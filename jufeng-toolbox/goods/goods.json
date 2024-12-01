@@ -1,12 +1,51 @@
 {
   "goodsList": [
     {
+      "title": "笑话全集",
+      "subTitle": "笑话全集",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/01/211434281-180397.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["dailyTools", "materialArt", "lifeEducation"],
+      "type": "日常、笑话",
+      "desc": "一款搞笑段子大全软件。心不好就上笑话全集APP，海量笑话合集，笑一笑，每天好心。文字笑话，图笑话，脑筋急转弯等应有尽有，还有超多段子分类选择，实时更新，享受轻松时刻！赶紧来下载体验吧。〖解锁VIP功能〗",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432046869-eae6d2?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "洋葱免费漫画",
+      "subTitle": "洋葱免费漫画",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/01/211434373-166524.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["entertainment", "image", "dailyTools"],
+      "type": "漫画",
+      "desc": "一款非常不错的漫画阅读软件，这款app涵盖了上千部漫画资源，各种类型各种题材的漫画这里都有，每天还会同步全网各大平台的热门漫画，更新速度快，阅读模式多样。〖已解锁VIP功能〗",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432046764-3239b2?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "居家健身",
+      "subTitle": "居家健身教练",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/01/211434441-40821.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["lifeEducation", "chatCommunication", "dailyTools"],
+      "type": "手机工具、健身",
+      "desc": "一款手机居家健身APP，随时随地在家健身，无需器械，轻松便捷，丰富的健身课程，专业教练指导，动作标准，避免受伤，智能记录运动数据，追踪健身进度，个性化健身计划，高效提升健身效果。（已解锁VIP）",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432046737-49632e?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
       "title": "微分身宝",
-      "subTitle": "智能配音，百种发音人适用多场景",
+      "subTitle": "微信手机应用分身",
       "primaryImage": "https://image.woozooo.com/image/ico/2024/12/01/211434123-535353.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
       "originPrice": "",
       "soldNum": "",
-      "categoryCodes": ["videoAudio", "aiTool", "dailyTools"],
+      "categoryCodes": ["dataSoftware", "chatCommunication", "dailyTools"],
       "type": "手机工具、分身",
       "desc": "一款轻松实现手分身的APP，一个手玩转多账号，时登录多个社交软件、游戏账号，互不干扰，作简单便捷，一键切换，轻松管理多个账号，告别繁琐的账号切换，提高效率，解放双手。（已解锁VIP）",
       "fileHerf": "https://url96.ctfile.com/f/40050796-1432046656-8d2108?p=zijef&=访问密码: zijef",
