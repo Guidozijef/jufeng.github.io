@@ -1,8 +1,47 @@
 {
   "goodsList": [
+     {
+      "title": "像素跳跃-解锁全部皮肤",
+      "subTitle": "跳跃是避免多种死亡的方式",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/11/30/211126069-16.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["entertainment"],
+      "type": "游戏",
+      "desc": "一款简单的像素跳跃类的休闲游戏，采用经典像素风格作为游戏背景，你将控制一个小方块，不断地跳跃，躲避多个障碍物，看似简单，但你一个不注意可能就掉下去了。",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432116007-44524c?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
     {
-      "title": "笑话全集",
-      "subTitle": "笑话全集",
+      "title": "DJ音乐盒-VIP版",
+      "subTitle": "专注DJ音乐，某音神曲车载电音全都有",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/11/28/210890227-624635.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["videoAudio", "dailyTools", "networkSoftware"],
+      "type": "音乐",
+      "desc": "一款专注于DJ音乐和电子舞曲的音乐APP，这款DJ舞曲APP拥有海量DJ音乐资源，涵盖车载、电音、重低音、喊麦、抖音神曲等多种类型，满足各种音乐喜好。（解锁VIP）",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432115824-8fc401?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "图加文字助手-VIP版本",
+      "subTitle": "图加文字助手，解锁VIP功能",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/11/30/211158462-550668.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["designBeautification", "dataSoftware", "materialArt","dailyTools"],
+      "type": "图文",
+      "desc": "一款功能强大的图编辑神器。软件拥有简洁拼图、图裁剪等实用功能，还支持在图中添加文字、制作文字图以及上下加文字。 它能实现文字与图的完融合，为您的图注入更多独特魅力。 无论您是想记录生活中的温馨点滴，还是分享精彩的旅行攻略，它都能满足您的需求。〖解锁VIP功能〗",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432115740-f5f1b5?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "笑话全集-VIP版本",
+      "subTitle": "笑话全集，解锁VIP功能",
       "primaryImage": "https://image.woozooo.com/image/ico/2024/12/01/211434281-180397.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
       "originPrice": "",
       "soldNum": "",
