@@ -83,5 +83,15 @@
     "name": "Ai视频",
     "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1727020927101-aae6784b-2945-40df-b61e-4f99e26ff9da.png?x-oss-process=image%2Fformat%2Cwebp",
     "code": "aiVideo"
+  },
+  {
+    "name": "黑科技",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729697132896-b7319250-0904-4656-a0d5-3f45d8336b69.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "blackTechnology"
+  },
+  {
+    "name": "其他",
+    "images": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1729697179691-6e1d03ee-f766-4c8f-a440-c57a89167ae6.png?x-oss-process=image%2Fformat%2Cwebp",
+    "code": "weChatMarketing"
   }
 ]
