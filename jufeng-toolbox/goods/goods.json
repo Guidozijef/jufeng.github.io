@@ -1,6 +1,58 @@
 {
   "goodsList": [
     {
+      "title": "周易起名-VIP版",
+      "subTitle": "专业起名工具，寓意好名轻松找",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/11/11/208028708-533854.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["dailyTools", "materialArt","designBeautification","blackTechnology","weChatMarketing"],
+      "type": "起名",
+      "desc": "一款专业的起名解名软件，在这里找名字非常简单，只需输入孩子出生年月日、姓氏等信息，软件就会带来一大批极具寓意的好名字，每个名字都有隐藏的含义。〖解锁VIP功能〗",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432873135-14bb85?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "AI绘图写作精灵-VIP版",
+      "subTitle": "智能写作助手，绘图翻译兼备",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/11/14/208411795-846174.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["OfficeDocuments", "image","dailyTools","chatCommunication","aiTool","blackTechnology","aiPainting","aiVideo","lifeEducation"],
+      "type": "AI工具",
+      "desc": "一款集写作、绘图、聊天、问答和翻译功能于一体的AI智能应用。无论您是需要灵感发还是语言翻译，都能帮助您快速完任务。通过智能问答功能，您可以随时向AI提出问题获取答案。时，还支持绘图功能，让您可以直观地表达自己的想法。无论是写作创作还是语言交流，AI绘图写作精灵都是您身边的得力助手。〖解锁VIP功能〗",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432872550-7178e1?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "模拟定位助手-VIP版",
+      "subTitle": "定位修改神器，伪装任何地点",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/11/19/209223913-224616.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["blackTechnology", "networkSoftware","systemTools","dailyTools"],
+      "type": "定位、日常",
+      "desc": "一款虚拟定位软件APP，该软件可以伪装地理位置到任何地点，也是能够查询自己的所在位置，任意修改自己的定位可以方便自己发朋友圈，想去哪里就可以在哪里，还可以实时查看各类路况信息，能够查看附近的地图等情况。〖解锁VIP去除广告〗",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432871677-c1de1d?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "驾考导师-VIP版",
+      "subTitle": "驾考学习神器，备考理论与实践",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/11/20/209433166-423963.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["dailyTools", "dataSoftware","lifeEducation","blackTechnology"],
+      "type": "驾考、日常",
+      "desc": "一款专为驾驶考试学员设计的辅助学习软件，旨在帮助用户高效备考并顺利通过驾照考试。这款应用为驾考学员提供了全面的学习和练习资源，是备考驾驶理论和实践考试的好帮手。（已解锁VIP功能）",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432870297-eb7be8?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
       "title": "豚豚剧",
       "subTitle": "追剧神器，影视资源丰富题材多",
       "primaryImage": "https://image.woozooo.com/image/ico/2024/12/02/211667009-58.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
@@ -14,7 +66,7 @@
       "isJili": true
     },
     {
-      "title": "海鸥伽速器",
+      "title": "海鸥加速器",
       "subTitle": "一键连接，轻松突破络限制",
       "primaryImage": "https://image.woozooo.com/image/ico/2024/12/04/211949682-619311.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
       "originPrice": "",
