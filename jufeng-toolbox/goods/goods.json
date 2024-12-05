@@ -1,6 +1,32 @@
 {
   "goodsList": [
     {
+      "title": "豚豚剧",
+      "subTitle": "追剧神器，影视资源丰富题材多",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/02/211667009-58.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["videoAudio", "dailyTools","weChatMarketing"],
+      "type": "视频",
+      "desc": "已更新！精选质影视资源，各种题材视频尽在其中，在线追剧，内容丰富，满足用户追剧需求，超多精彩等你体验，手追剧更轻松、更便捷，已去除已知广告!",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432867558-165ca2?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "海鸥伽速器",
+      "subTitle": "一键连接，轻松突破络限制",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/04/211949682-619311.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["entertainment", "dailyTools","networkSoftware","blackTechnology"],
+      "type": "加速器",
+      "desc": "一款手机APP，海鸥，稳定高速，畅玩全球游戏， 一键连接，轻松突破络限制，告别延迟卡顿，覆盖全球多个节点，选择最优线路，享受极速体验。（已解锁VIP）",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1432865383-532b20?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
       "title": "小精灵美化破解版",
       "subTitle": "精美头像+动态全局壁纸+骚气名片",
       "primaryImage": "https://static.xkwo.com/ol/image/2019/04/23/20190423151813_388312.png",
