@@ -1,6 +1,32 @@
 {
   "goodsList": [
     {
+      "title": "追书大全-会员版",
+      "subTitle": "漫画小说神器，海量资源每日更新",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/09/212802308-414372.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["videoAudio", "entertainment","dailyTools","dataSoftware","networkSoftware"],
+      "type": "小说",
+      "desc": "一款漫画小说APP，图文结合，给你全新的阅读体验，海量漫画和小说资源，满足你的各种阅读喜好，高清画质，流畅阅读，给你舒适的视觉享受，每日更新，紧跟最新漫画和小说潮流，让你第一时间追更。 （已解锁去广告）",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1435516300-dd9580?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "甜鸭相机-会员版",
+      "subTitle": "照片处理神器，海量模板应有尽有",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/10/212959879-20.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["image", "OfficeDocuments","dailyTools","designBeautification","blackTechnology"],
+      "type": "照片处理",
+      "desc": "一款多功能相、照处理软件。各种场景的模板， 应有尽有。风景、节日祝福、生日祝福、旅游、证件照等等海量模板， 让你只用手全搞定。已解锁永久会员！",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1435516570-da9387?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
       "title": "掌上PPT模板-会员版",
       "subTitle": "全行业素材，模板分类全",
       "primaryImage": "https://image.woozooo.com/image/ico/2024/12/06/212348395-21.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
