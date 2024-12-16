@@ -1,5 +1,31 @@
 {
   "goodsList": [
+     {
+      "title": "暴走头像-VIP版",
+      "subTitle": "头像资源库，海量精美头像",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/11/213048922-427667.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["image", "dailyTools","materialArt","networkSoftware"],
+      "type": "头像",
+      "desc": "一款汇集了海量个头像的资源库APP，提供大量精美的头像，包括生头像，生头像，情侣头像，动漫头像，卡通头像，可爱头像，唯美头像和非主流头像，是80后、90后和00后更换头像的必备软件， 完美适配几百款社交应用～〖解锁VIP功能〗",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1437801019-20d95a?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "一个工具箱",
+      "subTitle": "手机多功能工具箱，便捷实用",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/12/213313861-581428.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["dailyTools", "materialArt","image","designBeautification","blackTechnology","weChatMarketing","blackTechnology"],
+      "type": "工具箱",
+      "desc": "一款简易的汇聚多工能工具的手工具箱。软件中包含手持弹幕、短链生、视频压缩等工具，实用且好用，带给你全新应用体验，全能工具，尽享便捷！〖纯净版〗",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1437800491-a53ddc?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
     {
       "title": "KIearMax一键AI换脸",
       "subTitle": "一键AI换脸、图像变清晰、老照片修复、黑白照片上色！",
