@@ -1,5 +1,31 @@
 {
   "goodsList": [
+     {
+      "title": "腾讯视频TV版本-去广告版",
+      "subTitle": "腾讯视频TV版本，云视听极光极速版，无广告去更新",
+      "primaryImage": "https://cdn.nlark.com/yuque/0/2024/png/34366517/1734492500407-e6396e97-55a5-4306-a639-dc1eb65c5800.png?x-oss-process=image%2Fformat%2Cwebp",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["videoAudio", "TV","dailyTools","dataSoftware","networkSoftware","blackTechnology"],
+      "type": "视频、电视",
+      "desc": "腾讯视频TV版本，云视听极光极速版，无广告去更新",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1438559074-9c8300?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "蜜獾音乐",
+      "subTitle": "海量曲库听歌神器，离线缓存无损音质",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/08/212598619-665649.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["videoAudio", "entertainment","dailyTools","systemTools","networkSoftware"],
+      "type": "音乐",
+      "desc": "一款手机听歌APP，海量曲库，想听就听，音乐随心享，高清音质，无损音源，给你极致的听觉享受，个性推荐，智能算法，发现你喜欢的音乐，离线缓存，随时随地，畅享音乐。（已解锁去广告）",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1437801559-46c920?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
     {
       "title": "蜜獾音乐",
       "subTitle": "海量曲库听歌神器，离线缓存无损音质",
