@@ -1,5 +1,31 @@
 {
   "goodsList": [
+     {
+      "title": "软眠眠-会员版",
+      "subTitle": "丰富白噪音，专业睡眠质量报告",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/18/214149273-29.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["dailyTools", "systemTools","lifeEducation","blackTechnology","weChatMarketing"],
+      "type": "睡眠、日常",
+      "desc": "适合睡眠不好、长期受失眠困扰的都市人群！拯救数十万失眠星人的治愈系宝藏睡眠APP！丰富白噪音、记录梦话鼾声，专业睡眠质量报告等，已解锁永久会员",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1438989673-bb103d?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "待办事项记录-会员版",
+      "subTitle": "事务管理效率提升，便捷添加提醒",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/16/213812014-437324.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["OfficeDocuments", "dailyTools","systemTools","blackTechnology","weChatMarketing"],
+      "type": "待办事项、日常工具",
+      "desc": "一款待办事项记录APP，帮你轻松管理待办事项，提高效率，简洁直观的界面，方便你快速添加和查看任务，灵活的分类和排序功能，让你井井有条。 设置提醒功能，不错过任何重要事项，让你的生活更有效率。（已解锁PRO会员）",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1438988362-20455d?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
     {
       "title": "元壁纸",
       "subTitle": "手机壁纸库，资源丰富更新快",
