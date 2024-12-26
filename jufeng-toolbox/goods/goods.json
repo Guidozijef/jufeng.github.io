@@ -1,6 +1,19 @@
 {
   "goodsList": [
      {
+      "title": "画世界Pro-会员版",
+      "subTitle": "绘画学习，适合新手与进阶",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/24/214932008-54.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["dailyTools", "systemTools","lifeEducation","blackTechnology","weChatMarketing"],
+      "type": "绘画、日常",
+      "desc": "一款为绘画爱好者量身打造的绘画学习应用。无论你是绘画新手还是有一定绘画基础,画世界Pro都能满足你的学习需求。已解锁永久会员！",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1441267819-9da613?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+     {
       "title": "软眠眠-会员版",
       "subTitle": "丰富白噪音，专业睡眠质量报告",
       "primaryImage": "https://image.woozooo.com/image/ico/2024/12/18/214149273-29.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
