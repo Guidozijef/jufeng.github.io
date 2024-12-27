@@ -1,5 +1,44 @@
 {
   "goodsList": [
+     {
+      "title": "淘影",
+      "subTitle": "追剧神器，海量高清影视资源",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/24/214895336-662616.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["videoAudio", "entertainment","networkSoftware","aiVideo","weChatMarketing"],
+      "type": "视频",
+      "desc": "一款手追剧神器，汇聚海量影视资源，满足你的追剧需求，画质，流畅播放，给你致的观影体验。 涵盖电影、电视剧、综艺等多种类型，每日更新，让你第一时间追上最新剧集。（已解锁去广告）",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1441426222-34fc43?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "短视频一键搬运",
+      "subTitle": "短视频一键搬运",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/26/215163936-20.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["videoAudio", "dailyTools","materialArt","designBeautification","weChatMarketing","networkSoftware", "blackTechnology"],
+      "type": "短视频",
+      "desc": "已更新!一键搬运短视频是一款短视频全自动智能理软件，自带去水印、改MD5码、视频去重、视频编辑等功能，视频二次理伪原编辑工具，一天理几千视频，解放双手降低本，已解锁永久会员!",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1441426036-c0e0fc?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
+      "title": "4D动态壁纸",
+      "subTitle": "4D动态壁纸",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/26/215175772-823537.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["image", "dailyTools","materialArt","designBeautification","weChatMarketing"],
+      "type": "壁纸",
+      "desc": "一款非常质的手机壁纸软件，软件提供内含动漫、游戏、明星、风景、食等各种类型的精图，并且每张壁纸都是经过精挑细选，风格齐全、排版精，支持一键轻松设置壁纸锁屏、让你手桌面更加精炫酷～〖已解锁PRO会员〗",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1441424479-c45d0d?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
     {
       "title": "人升-会员版",
       "subTitle": "游戏化生活，升级见证努力",
