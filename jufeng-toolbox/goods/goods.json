@@ -1,5 +1,31 @@
 {
   "goodsList": [
+      {
+      "title": "JuMusic",
+      "subTitle": "音乐播放神器，热门榜单实时更新",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/10/11/203783791-738291.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["videoAudio", "entertainment","dailyTools","materialArt","blackTechnology"],
+      "type": "音乐",
+      "desc": "一款质的音乐播放APP，这里都有丰富的曲库供您选择。实时更新热门榜单，让您紧跟潮流。智能推荐系统，根据您的听歌习惯，为您推荐个性化的音乐。音质，让您沉浸在妙的音乐世界里～（解锁去除广告）",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1441427368-ef683e?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+     {
+      "title": "视频去重大师-专业版",
+      "subTitle": "智能短视频处理，智能去重去水印",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/10/22/205137668-650551.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["videoAudio", "dailyTools","materialArt","designBeautification","weChatMarketing","networkSoftware", "blackTechnology"],
+      "type": "短视频",
+      "desc": "一款短视频全自动智能理APP。提供多素材混剪，一键解析出无水印视频，对原视频有效去重，提高原创度。支持选择单个按场景分离后的段，针对单个段完镜像理，并且支持保存部分场景段镜像理后的完整视频。（解锁专业版）",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1441427110-4a634d?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
     {
       "title": "短视频搬运助手-VIP版",
       "subTitle": "一键编辑去水印，海量板任选",
