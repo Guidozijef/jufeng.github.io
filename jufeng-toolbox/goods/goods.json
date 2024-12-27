@@ -1,5 +1,18 @@
 {
   "goodsList": [
+    {
+      "title": "长风视频",
+      "subTitle": "免费影视播放，随时搜看热播剧",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/10/04/202546164-47.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["videoAudio", "entertainment","networkSoftware","aiVideo","weChatMarketing"],
+      "type": "视频",
+      "desc": "一款免费的手影视播放软件，随时观看最新上映的热播电视剧和网播剧，完支持各种格式，让你随时随地任意点播，真正的实现搜你想搜，看你，修改永久免广告会员！",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1441427962-1e0bc8?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
       {
       "title": "JuMusic",
       "subTitle": "音乐播放神器，热门榜单实时更新",
