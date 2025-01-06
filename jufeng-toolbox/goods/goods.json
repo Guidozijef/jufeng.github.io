@@ -1,6 +1,19 @@
 {
   "goodsList": [
     {
+      "title": "哔哩哔哩Music",
+      "subTitle": "B站音乐播放器，整合曲库搜索",
+      "primaryImage": "https://image.woozooo.com/image/ico/2024/12/29/215581237-612623.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["videoAudio", "dailyTools", "materialArt", "designBeautification", "blackTechnology", "weChatMarketing"],
+      "type": "音乐",
+      "desc": "一款基于哔哩哔哩的开源音乐播放器，整合了哔哩哔哩的音乐搜索功能，让你更方便地找到你想听的歌曲，庞大的音乐曲库，搜索和发现各种风格的音乐，包括最新流行歌曲、经典歌、独立音乐作等。（需要登录哔哩哔哩账号才能用，纯净版）",
+      "fileHerf": "https://url96.ctfile.com/f/40050796-1444385578-bd13fc?p=zijef&=访问密码: zijef",
+      "time": "",
+      "isJili": true
+    },
+    {
       "title": "文字语音转换器-VIP版",
       "subTitle": "TTS语音合成，多用途语音工具",
       "primaryImage": "https://image.woozooo.com/image/ico/2024/12/31/215972556-815810.png?x-oss-process=image/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
