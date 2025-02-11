@@ -1,6 +1,19 @@
 {
   "goodsList": [
     {
+      "title": "清华大学104页《DeepSeek：从入门到精通》.pdf",
+      "subTitle": "清华大学104页《DeepSeek：从入门到精通》.pdf",
+      "primaryImage": "https://cdn.nlark.com/yuque/0/2025/png/34366517/1739241642440-6441a131-c348-448f-81f6-63ddcb24a7d1.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_750%2Climit_0",
+      "originPrice": "",
+      "soldNum": "",
+      "categoryCodes": ["virtualResources", "utilities", "aiTool","weChatMarketing"],
+      "type": "AI工具",
+      "desc": "最近 DeepSeek 的出现让 AI 在国内掀起了一股浪潮，各大媒体、平台都在讨论和推广 DeepSeek，帮助各行各样使用 AI 不再有困难。今天大姚给大家分享一个由清华大学推出的、免费的：DeepSeek从入门到精通实用教程，该教材有着足足的104页能够快速的帮助大家了解和使用DeepSeek。",
+      "fileHerf": "https://pan.baidu.com/s/1OCfaFr4xSyEZYrT56Bkmsw?pwd=i2ap",
+      "time": "",
+      "isJili": true
+    },
+    {
       "title": "悟空采集评论搬砖_评论搬砖+自动采集【完整攻略】",
       "primaryImage": "https://www.xkwo.com/data/attachment/forum/202501/17/202741lgb0zd420yb0yvab.jpg",
       "originPrice": "",
